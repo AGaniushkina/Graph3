@@ -1,0 +1,19 @@
+True False
+Engels Saratov
+
+Saratov VoronezhMoscow
+
+Voronezh 
+
+Moscow MoscowSaratov
+
+Vladivostok 
+
+Volgograd RostovSaratov
+
+Rostov Volgograd
+
+Magadan 
+
+Khabarovsk Vladivostok
+

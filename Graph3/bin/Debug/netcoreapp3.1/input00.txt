@@ -1,0 +1,12 @@
+false false
+10
+Engels Saratov
+Saratov Voronezh
+Moscow Moscow
+Moscow Saratov
+Vladivostok
+Volgograd Rostov
+Volgograd Saratov
+Magadan
+Khabarovsk
+Khabarovsk Vladivostok

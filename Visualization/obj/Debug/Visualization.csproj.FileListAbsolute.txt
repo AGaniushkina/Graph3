@@ -1,0 +1,11 @@
+C:\Users\annag\source\repos\Graph3\Visualization\bin\Debug\Visualization.exe.config
+C:\Users\annag\source\repos\Graph3\Visualization\bin\Debug\Visualization.exe
+C:\Users\annag\source\repos\Graph3\Visualization\bin\Debug\Visualization.pdb
+C:\Users\annag\source\repos\Graph3\Visualization\obj\Debug\Visualization.csproj.AssemblyReference.cache
+C:\Users\annag\source\repos\Graph3\Visualization\obj\Debug\Visualization.csproj.SuggestedBindingRedirects.cache
+C:\Users\annag\source\repos\Graph3\Visualization\obj\Debug\Visualization.Form1.resources
+C:\Users\annag\source\repos\Graph3\Visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\annag\source\repos\Graph3\Visualization\obj\Debug\Visualization.csproj.GenerateResource.cache
+C:\Users\annag\source\repos\Graph3\Visualization\obj\Debug\Visualization.csproj.CoreCompileInputs.cache
+C:\Users\annag\source\repos\Graph3\Visualization\obj\Debug\Visualization.exe
+C:\Users\annag\source\repos\Graph3\Visualization\obj\Debug\Visualization.pdb

@@ -1,0 +1,9 @@
+true true
+7
+moscow voronesh 3
+saratov
+peterburg
+saratov omsk 6
+samara saratov 8
+engels saratov 9
+moscow omsk 3

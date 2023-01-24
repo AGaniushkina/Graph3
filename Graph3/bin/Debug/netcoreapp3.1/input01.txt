@@ -1,0 +1,12 @@
+false true
+10
+Engels Saratov 4
+Saratov Voronezh 450
+Moscow Moscow 1
+Moscow Saratov 800
+Vladivostok
+Volgograd Rostov 700
+Volgograd Saratov 300
+Magadan
+Khabarovsk
+Khabarovsk Vladivostok 900

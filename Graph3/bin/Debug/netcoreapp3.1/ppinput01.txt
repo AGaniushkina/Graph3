@@ -1,0 +1,11 @@
+false true
+9
+a b 7
+a c 8
+b c 11
+b d 2
+c d 6
+c e 9
+e d 11
+d f 9
+e f 10

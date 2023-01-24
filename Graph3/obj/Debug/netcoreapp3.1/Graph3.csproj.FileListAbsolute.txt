@@ -1,0 +1,14 @@
+C:\Users\annag\source\repos\Graph3\Graph3\bin\Debug\netcoreapp3.1\Graph3.exe
+C:\Users\annag\source\repos\Graph3\Graph3\bin\Debug\netcoreapp3.1\Graph3.deps.json
+C:\Users\annag\source\repos\Graph3\Graph3\bin\Debug\netcoreapp3.1\Graph3.runtimeconfig.json
+C:\Users\annag\source\repos\Graph3\Graph3\bin\Debug\netcoreapp3.1\Graph3.runtimeconfig.dev.json
+C:\Users\annag\source\repos\Graph3\Graph3\bin\Debug\netcoreapp3.1\Graph3.dll
+C:\Users\annag\source\repos\Graph3\Graph3\bin\Debug\netcoreapp3.1\Graph3.pdb
+C:\Users\annag\source\repos\Graph3\Graph3\obj\Debug\netcoreapp3.1\Graph3.csproj.AssemblyReference.cache
+C:\Users\annag\source\repos\Graph3\Graph3\obj\Debug\netcoreapp3.1\Graph3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annag\source\repos\Graph3\Graph3\obj\Debug\netcoreapp3.1\Graph3.AssemblyInfoInputs.cache
+C:\Users\annag\source\repos\Graph3\Graph3\obj\Debug\netcoreapp3.1\Graph3.AssemblyInfo.cs
+C:\Users\annag\source\repos\Graph3\Graph3\obj\Debug\netcoreapp3.1\Graph3.csproj.CoreCompileInputs.cache
+C:\Users\annag\source\repos\Graph3\Graph3\obj\Debug\netcoreapp3.1\Graph3.dll
+C:\Users\annag\source\repos\Graph3\Graph3\obj\Debug\netcoreapp3.1\Graph3.pdb
+C:\Users\annag\source\repos\Graph3\Graph3\obj\Debug\netcoreapp3.1\Graph3.genruntimeconfig.cache
